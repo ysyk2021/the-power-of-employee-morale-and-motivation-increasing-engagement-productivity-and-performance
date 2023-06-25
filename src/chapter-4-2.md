@@ -1,5 +1,4 @@
-Chapter 4: Addressing Factors that Affect Employee Morale and Motivation: Enhancing Employee Well-Being
-=======================================================================================================
+# Enhancing Employee Well-Being
 
 Employee well-being is a crucial factor that affects morale and motivation in the workplace. In this chapter, we will explore how to address factors that affect employee morale and motivation by enhancing employee well-being.
 

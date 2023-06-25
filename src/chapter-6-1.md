@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Improving Employee Morale and Motivation: Key Performance Indicators (KPIs) for Measuring Success
-=================================================================================================================================
+# Key Performance Indicators (KPIs) for Measuring Success
 
 Improving employee morale and motivation is critical for creating a positive work environment and achieving organizational success. In this chapter, we will discuss the key performance indicators (KPIs) for measuring success in improving employee morale and motivation.
 

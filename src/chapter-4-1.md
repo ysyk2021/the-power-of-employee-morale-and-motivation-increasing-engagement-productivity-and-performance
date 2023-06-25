@@ -1,5 +1,4 @@
-Chapter 4: Addressing Factors that Affect Employee Morale and Motivation: Building a Positive Work Environment
-==============================================================================================================
+# Building a Positive Work Environment
 
 Employee morale and motivation are influenced by a wide range of factors, including the work environment. In this chapter, we will explore how to address factors that affect employee morale and motivation by building a positive work environment.
 

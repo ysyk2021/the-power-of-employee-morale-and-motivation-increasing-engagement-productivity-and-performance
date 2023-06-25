@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Improving Employee Morale and Motivation: Qualitative and Quantitative Methods for Evaluation
-=============================================================================================================================
+# Qualitative and Quantitative Methods for Evaluation
 
 Improving employee morale and motivation is a continuous process that requires monitoring and evaluation to determine success. In this chapter, we will discuss the qualitative and quantitative methods for evaluating initiatives aimed at improving employee morale and motivation.
 

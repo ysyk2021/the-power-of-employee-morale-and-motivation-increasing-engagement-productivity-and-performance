@@ -1,5 +1,4 @@
-Chapter 2: Understanding Employee Morale and Motivation: Definition of Employee Morale and Motivation
-=====================================================================================================
+# Definition of Employee Morale and Motivation
 
 Employee morale and motivation are important factors that contribute to employee engagement, productivity, and performance. In this chapter, we will define employee morale and motivation and discuss their importance in the workplace.
 

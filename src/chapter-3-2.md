@@ -1,5 +1,4 @@
-Chapter 3: Assessing Employee Morale and Motivation Levels: Conducting Surveys and Focus Groups
-===============================================================================================
+# Conducting Surveys and Focus Groups
 
 In order to improve employee morale and motivation, it is important for organizations to first understand the current level of these factors among their employees. One effective way of doing this is through conducting surveys and focus groups.
 

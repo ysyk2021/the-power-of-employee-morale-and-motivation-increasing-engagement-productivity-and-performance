@@ -1,5 +1,4 @@
-Chapter 3: Assessing Employee Morale and Motivation Levels: Identifying Indicators of Low Morale and Motivation
-===============================================================================================================
+# Identifying Indicators of Low Morale and Motivation
 
 To improve employee morale and motivation, it is important for organizations to first identify the indicators of low morale and motivation. By recognizing these indicators, organizations can take action to address specific issues and improve overall employee engagement, productivity, and performance.
 

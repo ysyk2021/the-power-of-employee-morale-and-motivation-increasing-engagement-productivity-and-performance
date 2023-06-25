@@ -1,5 +1,4 @@
-Chapter 4: Addressing Factors that Affect Employee Morale and Motivation: Encouraging Open Communication
-========================================================================================================
+# Encouraging Open Communication
 
 Open communication is essential for fostering a positive work environment and boosting employee morale and motivation. In this chapter, we will explore how to address factors that affect employee morale and motivation by encouraging open communication.
 

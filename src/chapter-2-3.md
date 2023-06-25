@@ -1,5 +1,4 @@
-Chapter 2: Understanding Employee Morale and Motivation: Common Myths about Employee Morale and Motivation
-==========================================================================================================
+# Common Myths about Employee Morale and Motivation
 
 There are several common myths about employee morale and motivation that can hinder efforts to improve them. In this chapter, we will discuss these myths and explain why they are not accurate.
 
