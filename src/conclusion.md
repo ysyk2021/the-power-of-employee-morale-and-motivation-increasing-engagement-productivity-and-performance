@@ -1,8 +1,5 @@
 # Conclusion
 
-Chapter 10: Conclusion
-======================
-
 In this book, we have discussed the importance of employee morale and motivation for increasing engagement, productivity, and performance in the workplace. We have explored strategies and initiatives that organizations can implement to improve employee morale and motivation, as well as methods for measuring success and overcoming obstacles.
 
 Recap of Key Points
