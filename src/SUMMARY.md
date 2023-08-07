@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Importance of Employee Morale and Motivation](chapter-1-1.md)
-  - [Overview of the Book](chapter-1-2.md)
 - [Chapter 2: Understanding Employee Morale and Motivation](chapter-2.md)
   - [Definition of Employee Morale and Motivation](chapter-2-1.md)
   - [Benefits of High Employee Morale and Motivation](chapter-2-2.md)
