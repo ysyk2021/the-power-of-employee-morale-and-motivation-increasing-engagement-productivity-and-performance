@@ -1,4 +1,4 @@
-Chapter 4: Encouraging Open Communication
+Encouraging Open Communication
 =========================================
 
 Introduction

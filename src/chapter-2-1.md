@@ -1,4 +1,4 @@
-Chapter 1: Definition of Employee Morale and Motivation
+Definition of Employee Morale and Motivation
 =======================================================
 
 Introduction

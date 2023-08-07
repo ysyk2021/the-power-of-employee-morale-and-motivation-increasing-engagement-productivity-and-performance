@@ -1,4 +1,4 @@
-Chapter: Common Myths about Employee Morale and Motivation
+Common Myths about Employee Morale and Motivation
 ==========================================================
 
 Introduction

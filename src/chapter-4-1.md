@@ -1,4 +1,4 @@
-Chapter 3: Building a Positive Work Environment
+Building a Positive Work Environment
 ===============================================
 
 Introduction

@@ -1,4 +1,4 @@
-Chapter: Enhancing Employee Well-being
+ Employee Well-being
 ======================================
 
 Introduction
