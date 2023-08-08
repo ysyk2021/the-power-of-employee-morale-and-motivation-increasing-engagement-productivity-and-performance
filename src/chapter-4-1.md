@@ -1,12 +1,9 @@
 Building a Positive Work Environment
 ===============================================
 
-Introduction
-------------
-
 Creating a positive work environment is essential for employee morale, motivation, and overall organizational success. When employees feel valued and supported, they are more engaged, productive, and perform at their best. This chapter will explore various strategies and practices that can be implemented to foster a positive work environment.
 
-### Why is a Positive Work Environment Important?
+## Why is a Positive Work Environment Important?
 
 A positive work environment cultivates a culture of trust, respect, and collaboration among employees. It promotes job satisfaction, reduces stress levels, and enhances overall well-being. By prioritizing a positive work environment, organizations can boost employee retention, improve productivity, and ultimately achieve their goals more effectively.
 

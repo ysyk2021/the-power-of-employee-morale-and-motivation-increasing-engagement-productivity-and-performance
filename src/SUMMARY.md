@@ -25,7 +25,6 @@
   - [Common Obstacles to Improving Employee Morale and Motivation](chapter-7-1.md)
   - [Strategies for Overcoming Challenges](chapter-7-2.md)
 - [Chapter 8: Case Studies of Successful Improvement of Employee Morale and Motivation](chapter-8.md)
-  - [Real-life Examples of Companies that have Successfully Increased Employee Morale and Motivation](chapter-8-1.md)
 - [Chapter 9: Integrating Employee Morale and Motivation with Organizational Culture](chapter-9.md)
   - [Fostering a Culture of Trust and Engagement](chapter-9-1.md)
   - [Aligning Employee Morale and Motivation with Business Goals](chapter-9-2.md)

@@ -1,8 +1,7 @@
 Common Myths about Employee Morale and Motivation
 ==========================================================
 
-Introduction
-------------
+
 
 In this chapter, we will explore and debunk common myths surrounding employee morale and motivation. These misconceptions often hinder organizations from creating a positive work environment and maximizing their employees' engagement, productivity, and performance. By dispelling these myths, we can gain a deeper understanding of what truly drives employee morale and motivation.
 
