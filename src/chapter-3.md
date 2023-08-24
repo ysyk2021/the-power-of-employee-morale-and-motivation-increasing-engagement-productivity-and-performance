@@ -1,5 +1,3 @@
-Chapter 3: Assessing Employee Morale and Motivation Levels
-==========================================================
 
 Assessing employee morale and motivation levels is a crucial step in improving overall employee engagement, productivity, and performance. This chapter will cover three subtopics that are important for assessing employee morale and motivation: identifying indicators of low morale and motivation, conducting surveys and focus groups, and analyzing data to identify trends.
 

@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Employee morale and motivation are essential factors in creating a positive work environment and achieving organizational success. In this chapter, we will discuss the importance of employee morale and motivation and provide an overview of the book.
 

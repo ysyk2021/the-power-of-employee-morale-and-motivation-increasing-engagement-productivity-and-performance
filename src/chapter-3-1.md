@@ -1,5 +1,3 @@
-Identifying Indicators of Low Morale and Motivation
-==============================================================
 
 In this chapter, we explore the telltale signs and indicators that suggest the presence of low morale and motivation within an organization. By recognizing these indicators early on, leaders can take proactive steps to address the underlying issues and boost employee engagement, productivity, and performance.
 

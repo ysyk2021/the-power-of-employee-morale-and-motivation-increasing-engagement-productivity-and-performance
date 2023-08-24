@@ -1,5 +1,3 @@
-Chapter 6: Measuring Success in Improving Employee Morale and Motivation
-========================================================================
 
 Improving employee morale and motivation is a continuous process that requires monitoring and evaluation to determine success. In this chapter, we will discuss the key performance indicators (KPIs) for measuring success and the qualitative and quantitative methods for evaluation.
 

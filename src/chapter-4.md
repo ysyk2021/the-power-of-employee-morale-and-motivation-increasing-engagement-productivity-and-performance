@@ -1,5 +1,3 @@
-Chapter 4: Addressing Factors that Affect Employee Morale and Motivation
-========================================================================
 
 To ensure high levels of employee morale and motivation, it is important for organizations to address the factors that affect them. In this chapter, we will discuss three subtopics that can contribute to improving employee morale and motivation: building a positive work environment, enhancing employee well-being, and encouraging open communication.
 

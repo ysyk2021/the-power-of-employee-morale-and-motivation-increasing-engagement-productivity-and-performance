@@ -1,5 +1,3 @@
-Conducting Surveys and Focus Groups
-============================================
 
 Surveys and focus groups are powerful tools for gathering valuable insights into employee morale and motivation. They provide organizations with the opportunity to directly engage with employees, understand their experiences, and identify areas for improvement. In this chapter, we will explore the importance of conducting surveys and focus groups, discuss the steps involved in designing and executing them effectively, and highlight the benefits of using these methods to enhance employee engagement, productivity, and performance.
 

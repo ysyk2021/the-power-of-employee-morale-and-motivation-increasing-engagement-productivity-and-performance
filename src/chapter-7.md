@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Obstacles to Improving Employee Morale and Motivation
-===========================================================================
 
 Improving employee morale and motivation is critical for creating a positive work environment and achieving organizational success. However, there may be obstacles that organizations face when trying to improve these factors. In this chapter, we will discuss common obstacles to improving employee morale and motivation and strategies for overcoming them.
 

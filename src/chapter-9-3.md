@@ -1,5 +1,3 @@
-Developing an Agile Mindset as a Leader
-==================================================
 
 In this chapter, we delve into the importance of developing an agile mindset as a leader to enhance employee morale, motivation, and overall organizational performance. We explore the key principles and characteristics of agile leadership, as well as strategies for developing and nurturing an agile mindset.
 
