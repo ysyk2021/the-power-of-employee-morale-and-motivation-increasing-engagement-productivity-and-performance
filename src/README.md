@@ -6,3 +6,7 @@ In this book, readers will learn about the key factors that impact employee mora
 Additionally, the book explores how organizational culture can play an important role in integrating employee morale and motivation with business goals. Readers will gain insights into how to foster a culture of trust and engagement, align employee morale and motivation with organizational objectives, and develop an agile mindset as a leader. This book is an essential resource for anyone seeking to enhance employee morale and motivation, and to build a more productive and successful organization.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
