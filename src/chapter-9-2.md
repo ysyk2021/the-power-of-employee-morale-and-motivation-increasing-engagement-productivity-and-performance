@@ -1,5 +1,4 @@
-Chapter: Aligning Employee Morale and Motivation with Business Goals
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
